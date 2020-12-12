@@ -1,0 +1,507 @@
+ 1. Question 
+
+The UCS icon represents the intersection of the ________.
+
+    1. X axis
+    2. Y axis
+    3. Z axis
+ x   4. All of the above
+
+ 2. Question 
+
+How many AutoCAD objects are in a rectangle?
+
+    1. None
+ x   2. One
+    3. Four
+    4. Eight
+ 
+3. Question 
+
+How many snap points does a circle have?
+
+    1. 2
+    2. 3
+    3. 4
+x    4. 5
+
+ 4. Question 
+
+A line with a tapering width can be easily created by using the ________ tool.
+
+    1. Circle
+    2. Eclipse
+    3. Line
+x    4. Polyline
+
+ 5. Question 
+
+One quick way to view the entire drawing area is to use the Zoom command by typing ________.
+
+x    1. Type Z enter A enter
+    2. Type Z enter E enter
+    3. Type SHOWALL enter
+    4. Type ALL enter
+ 
+6. Question 
+
+If you draw a line at 270 degrees it will
+
+    1. Up 90
+x    2. Down 270
+    3. Left 
+    4. Right 180
+
+ 7. Question 
+
+Which of these commands the print command?
+
+    1. Typing “Plot”
+    2. Typing “Print”
+x    3. Pressing Control + P
+    4. None of the above
+
+ 8. Question 
+
+What does the acronym, WCS stand for?
+
+
+    1. Western CAD System
+    2. Worldwide Coordinate Sectors
+x    3. World Coordinate System
+    4. Wrong CAD Settings
+
+ 9. Question 
+
+Which axis will you use in 3-D that you didn’t use in 2-D?
+
+    1. X
+    2. Y
+x    3. Z
+    4. None of the above
+
+ 10. Question 
+
+How do you select the previous selection set of objects?
+
+    1. Type “L”
+x    2. Type “P”
+    3. Type “H” to highlight them
+    4. It cannot be done
+
+ 11. Question 
+
+To rotate an object in 3-D space, you use the..
+
+    1. Rotate command
+    2. 3D rotate command
+x    3. Rotate 3D command
+    4. Revolve
+
+ 12. Question 
+
+Autocad drawings have what extension?
+
+    1. dwt
+x    2. dwg
+    3. doc
+    4. jpg
+
+ 13. Question 
+
+Does the template set up the machine or does it set up the drawing?
+ Drawing 
+
+ 14. Question 
+
+What is the shortcut key for ortho?
+
+    1. F5
+    2. Enter
+    3. F10
+x    4. F8 ctrl+l
+    5. Escape
+
+ 15. Question 
+
+Which layer(s) will you most likely need?
+
+    1. At least one for the objects
+    2. Text
+    3. Dimension
+x    4. All of the above
+
+ 16. Question 
+Which one is NOT a vaild type of unit?
+
+    1. Architectural
+    2. Decimal
+x    3. Open and micrometric
+    4. Metric
+
+ 17. Question 
+
+What do you NOT need to consider when starting a CAD drawing?
+
+    1. If you can draw it
+x    2. If you have enough paper
+    3. If you have all the measurements needed
+    4. If AutoCAD is installed on your computer
+
+ 19. Question 
+
+What can be contained in a template drawing?
+
+    1. Layers
+    2. Test Styles
+    3. Dimension Styles
+x    4. All of the above
+
+ 20. Question 
+
+To invoke the Zoom command transparently, type:
+
+x    1. 'Z
+    2. >Z
+    3. :Z
+    4. "Z
+
+ 21. Question 
+
+Which is not a valid Zoom option?
+
+    1. Zoom Extents
+    2. Zoom Previous
+x    3. Zoom Next
+    4. Zoom Window
+
+ 22. Question 
+
+Panning allows you to…
+
+    1. Minimize the drawing
+    2. See all of the drawing at once
+    3. Close in on a small area
+x    4. Move around the drawing at the same scale
+
+ 23. Question 
+
+Why should you use the Zoom tools?
+
+    1. To be more accurate
+    2. To be faster
+    3. To make your life easier
+x    4. All of the above
+
+ 24. Question 
+
+What can you type in to see the Text Styles dialog box?
+
+    1. Text
+    2. Textstyles
+    3. TS
+x    4. ST
+
+ 25. Question 
+
+What can be a problem with using True Type fonts?
+
+x    1. They can slow down the drawing
+    2. Other users may not have the same fonts
+    3. They can be tougher to format
+    4. All of the above
+
+ 26. Question 
+
+Why should you not use the standard TXT font?
+
+    1. It's ugly
+    2. It looks unprofessional
+    3. It can be difficult to readAll of the above
+x    4. All of the above
+
+ 27. Question 
+
+When you are defining a Text Style, should you adjust the height?
+
+    1. Always
+x    2. Only if you really know what you're doing
+    3. Sometimes
+    4. Never
+
+ 28. Question 
+
+When you are in Paper Space (layout) what do you create to see your model?
+
+    1. A window
+    2. A box
+    3. A rectangle
+x    4. A viewport
+
+ 29. Question 
+
+What’s the easiest way to know if you are in paper space /layout mode?
+
+    1. Zoom out
+    2. Ask someone
+x    3. Look for the triangular icon
+    4. Try printing
+
+ 30. Question 
+
+What command do you use to scale a viewport?
+
+    1. Scale
+    2. Vpscale
+    3. Print
+x    4. Zoom
+
+ 31. Question 
+
+How many view do you need Orthographic Projection?
+
+    1. 1
+    2. 2
+X    3. 3 Top/Bottom view, Left/Right side view, front/back view
+    4. As many as are needed
+
+32. Question
+
+Does it matter which Hatch pattern you use in Section views?
+
+x    1. Yes
+    2. No
+    3. Only if it is steel
+    4. Sometimes
+    
+33. Question 
+
+Scaling objects makes them…
+
+    1. Bigger
+    2. Smaller
+    3. It only streches them
+x    4. Both Bigger and Smaller
+
+34. Question 
+
+When can you change the height of your text?
+
+x    1. Only when you start the drawing
+    2. Only in a special text dialog box
+    3. When you are starting the Text command
+    4. You can't, it is pre-set by AutoCAD
+    
+ 35. Question 
+
+How many layers should a drawing have?
+
+    1. One
+    2. Ten
+    3. One for each object
+x    4. As many as are needed to clearly display the objects
+
+ 36. Question 
+
+You should use Osnaps when you dimension…
+
+    1. Never
+x    2. Always
+    3. Only on lines
+    4. Only on arcs and circles
+
+ 37. Question 
+
+The distances of a chamfer are:
+
+    1. Always different
+    2. Always the same
+x    3. Sometimes different
+    4. Never the same
+
+ 38. Question 
+
+A polar array creates new objects…
+
+    1. In a grid pattern
+    2. In a straight line
+x    3. In a circular pattern
+    4. In an northern pattern
+
+ 39. Question 
+
+The fillet command creates?
+
+    1. Sharp Corners
+x    2. Round Corners Fillet is a round corner and chamfer is a sharp corner
+    3. Round and Sharp Corners
+    4. A boneless fish
+
+ 40. Question 
+
+Objects are rotated around the
+
+x 1. Base point
+  2. Bottom right of the object
+  3. Centre of the object
+  4. Origin
+
+ 41. Question 
+
+The origin of a drawing is at:
+
+    1. The first point you select
+x    2. 0,0
+    3. A random point in space
+    4. 10,10
+
+ 42. Question 
+
+How should you select objects when using the stretch command?
+
+x    1. With a crossing window for increase /decrease by  crossing selection 1st click right corner point  than left other diagonal corner point and move cross hair
+    2. Pick them one by one
+    3. Hold the shift key while selecting
+    4. Type 'S’
+
+ 43. Question 
+
+To move something four untis to the right, what would be the 2nd point of displacement?
+
+    1. @4,0
+    2. @4<0
+    3. Neither 1 nor 2
+x    4. Both 1 and 2
+
+ 44. Question
+
+What is the best way of drawing a rectangle?
+
+    1. Using the Line command
+    2. Using the Polyline command
+x    3. Using the Rectangle command by defining 2 corner points
+    4. Using the Multiline command
+
+ 45. Question 
+
+How you select the last set of object(s) you selected?
+
+x    1. Type 'L’
+    2. Type 'P’
+    3. Type 'H' to highlight them
+    4. You can not do this
+ 
+46. Question
+
+Pressing ‘F’ when selecting objects will…
+
+x    1. Allow you to draw a fence
+    2. Finish the selection set
+    3. Limit you to five objects
+    4. Allow you to find specific text
+
+ 47. Question 
+
+When selecting objects, pressing ‘L’ will:
+
+    1. Select lines only
+    2. Select objects when you move your mouse to the left
+x    3. Select the last object created
+    4. Select the last object created
+
+ 48. Question 
+
+How many points do you need to draw a line using Absolute Coordinates?
+
+    1. None
+    2. One
+x    3. Two A line is always defined by two points
+    4. Four
+
+ 49. Question 
+
+How long will line from 1,4 to @4<5 be?
+
+    1. Three units
+x    2. Four units relative polar coordinate where x=1 and y=4 and in ( @4 <5 ), 4 is the distance at an angle of 5 degrees from the relative coordinate.
+    3. Five units
+    4. 6.4031 units
+
+ 50. Question 
+
+Pressing Shift while you are selecting will?
+
+    1. Allow you to draw a window
+    2. Automatically delete the object(s)
+x    3. Remove the next selected object from the set
+    4. Highlight the selected objects
+
+ 51. Question 
+
+How many snap points does an object have?
+
+    1. One
+    2. Two
+x    3. Depends upon the object
+    4. At least four
+
+ 52. Question 
+
+When using the TRIM command, which do you select first?
+
+x    1. The cutting edges
+    2. The object to be trimmed
+    3. Everything
+    4. Nothing
+
+ 53. Question 
+
+Which keystrokes will UNDO a command
+
+    1. Control+U
+x    2. Control+Z To reverse your last action, CTRL+Y To reverse your last Undo
+
+ 54. Question 
+
+Polar coordinates are used mostly for drawing…?
+
+    1. Circles
+    2. Arcs
+    3. Vertical lines
+x    4. Angled lines You can use absolute or relative polar coordinates to locate points when creating objects. To use polar coordinates to specify a point, enter a distance and an angle separated by an angle bracket (<).By default, angles increase in the counterclockwise direction and decrease in the clockwise direction. To specify a clockwise direction, enter a negative value for the angle.
+ 
+55. Question 
+
+What should you pay attention to when learning AutoCAD?
+
+x    1. The Command Line
+    2. The Status Bar
+    3. The Title Bar
+    4. Tool Icons
+
+ 56. Question 
+
+Which one of these will NOT start the Print command?
+
+    1. Typing PLOT
+    2. Typing PRINT
+    3. Pressing Control+P
+x    4. Pressing Alt+P
+
+ 57. Question 
+
+1s 300 degrees the same as -60 degrees in a drawing?
+
+    1. Yes
+    2. No
+    3. Not always
+x    4. Never
+
+ 58. Question 
+
+From which direction does AutoCAD start measuring angles?
+
+    1. 12 o'clock
+x    2. 3 o'clock Upwards is +Angle. Downwards is -Ve Angle. 3 o clock 0 degree and 12 o clock 90 degree
+    3. 6 o'clock
+    4. 9 o'clock
